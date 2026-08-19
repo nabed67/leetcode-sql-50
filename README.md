@@ -5,3 +5,7 @@ I have solved first LeetCode MySQL problem from the SQL 50 challenge. While solv
 ### 584. Find Customer Referee
 
 `IS NULL` checks for NULL values, while != checks for values that are not equal
+
+### 595. Big Countries
+
+`IS NULL` checks for NULL values, while != checks for values that are not equal
