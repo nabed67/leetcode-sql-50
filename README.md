@@ -13,3 +13,7 @@ I have solved first LeetCode MySQL problem from the SQL 50 challenge. While solv
 ### 1148. Article Views I
 
 `ORDER BY` sorts the query results in ascending (ASC) or descending (DESC) order
+
+### 1683. Invalid Tweets
+
+`LENGTH()` function returns the number of characters in a string
