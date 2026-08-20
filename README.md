@@ -8,4 +8,8 @@ I have solved first LeetCode MySQL problem from the SQL 50 challenge. While solv
 
 ### 595. Big Countries
 
-`IS NULL` checks for NULL values, while != checks for values that are not equal
+`ORDER BY` sorts the query results in ascending (ASC) or descending (DESC) order
+
+### 1148. Article Views I
+
+`ORDER BY` sorts the query results in ascending (ASC) or descending (DESC) order
