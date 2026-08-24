@@ -19,3 +19,4 @@ I have solved first LeetCode MySQL problem from the SQL 50 challenge. While solv
 `LENGTH()` function returns the number of characters in a string
 
 ### 1378. Replace Employee ID With The Unique Identifier
+
